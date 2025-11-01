@@ -52,14 +52,6 @@ A GRU architecture infused with fuzzy membership functions to improve interpreta
   <img src="docs/fuzzy_gru_diagram.png" width="500px" alt="Fuzzy GRU Architecture"/>
 </p>
 
----
-
-## 🧪 Results
-
-| Task                       | Accuracy |
-|---------------------------|----------|
-| Cerebral Infarction Detection | **91%**     |
-| Therapy Classification       | **85%**     |
 
 ---
 
