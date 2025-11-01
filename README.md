@@ -54,15 +54,6 @@ A GRU architecture infused with fuzzy membership functions to improve interpreta
 
 ---
 
-## 🧪 Results
-
-| Task                       | Accuracy |
-|---------------------------|----------|
-| Cerebral Infarction Detection | **91%**     |
-| Therapy Classification       | **85%**     |
-
----
-
 ## 🛠️ Tech Stack
 
 - Python
